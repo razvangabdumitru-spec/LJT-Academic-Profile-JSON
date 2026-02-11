@@ -1,30 +1,10 @@
 {
-  "identity": {
+  "personal_details": {
     "name": "Junteng Liu",
-    "positions": [
-      "First-year PhD candidate at HKUST NLP Group",
-      "Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology"
-    ],
-    "summary": "Research focuses on natural language processing and machine learning"
+    "current_position": "Ph.D. candidate, HKUST NLP Group (2024-Present)",
+    "summary": "First-year Ph.D. candidate focused on natural language processing and machine learning."
   },
-  "affiliations": [
-    {
-      "organization": "HKUST NLP Group",
-      "role": "PhD candidate",
-      "details": null
-    },
-    {
-      "organization": "Hong Kong University of Science and Technology",
-      "role": "Ph.D. student",
-      "details": null
-    },
-    {
-      "organization": "Shanghai Jiao Tong University",
-      "role": "Alumnus",
-      "details": null
-    }
-  ],
-  "education": [
+  "academic_background": [
     {
       "degree": "Ph.D. in Computer Science",
       "institution": "Hong Kong University of Science and Technology",
@@ -33,15 +13,14 @@
     {
       "degree": "B.Eng.",
       "institution": "Shanghai Jiao Tong University",
-      "period": "2020-2024",
-      "graduation_date": "June 2024"
+      "period": "2020-2024"
     }
   ],
   "research_interests": [
     "Natural Language Processing",
     "Machine Learning",
     "LLM Reasoning and Reinforcement Learning",
-    "Hallucination in Vision-Language Models (VLM)",
+    "Hallucination in Vision-Language Models",
     "LLM truthfulness and Interpretability"
   ],
   "research_experience": [
@@ -67,158 +46,54 @@
     {
       "title": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
       "year": 2025,
+      "venue": "ArXiv",
       "role": "First author",
-      "venue": "Arxiv",
-      "authors_note": "Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He",
-      "notes": "Has GitHub code repository"
+      "notes": "Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He"
     },
     {
       "title": "On the Perception Bottleneck of VLMs for Chart Understanding",
       "year": 2025,
+      "venue": "ArXiv",
       "role": "First author",
-      "venue": "Arxiv",
-      "authors_note": "Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He",
-      "notes": "Has GitHub code repository: Vision4Chart"
+      "notes": "Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He"
     },
     {
       "title": "On the Universal Truthfulness Hyperplane Inside LLMs",
       "year": 2024,
-      "role": "First author",
       "venue": "EMNLP 2024",
-      "authors_note": "Co-authors: Shiqi Chen, Yu Cheng, Junxian He",
-      "notes": "Has GitHub code repository: Universal_Truthfulness_Hyperplane"
+      "role": "First author",
+      "notes": "Co-authors: Shiqi Chen, Yu Cheng, Junxian He"
     },
     {
       "title": "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation",
       "year": 2024,
-      "role": null,
       "venue": "ICML 2024",
-      "authors_note": "Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He"
+      "role": "Co-author",
+      "notes": "Authors include Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He"
     },
     {
       "title": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
       "year": 2023,
-      "role": null,
       "venue": "NeurIPS 2023",
-      "authors_note": "Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He"
+      "role": "Co-author",
+      "notes": "Authors include Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He"
     },
     {
       "title": "Composing Parameter-Efficient Modules with Arithmetic Operations",
       "year": 2023,
-      "role": null,
       "venue": "NeurIPS 2023",
-      "authors_note": "Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He"
+      "role": "Co-author",
+      "notes": "Authors include Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He"
     }
   ],
-  "skills": [
-    "Natural Language Processing",
-    "Machine Learning"
-  ],
-  "contact": {
+  "skills": [],
+  "contact_info": {
     "email": "jliugi@connect.ust.hk",
-    "github": "https://github.com/Vicent0205",
+    "github": {
+      "username": "Vicent0205",
+      "url": "https://github.com/Vicent0205"
+    },
     "google_scholar": "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate",
-    "x": "@junteng88716710"
-  },
-  "source_provenance": {
-    "identity.name": [
-      "First-year PhD candidate at HKUST NLP Group",
-      "Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology"
-    ],
-    "identity.positions": [
-      "First-year PhD candidate at HKUST NLP Group",
-      "Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology"
-    ],
-    "identity.summary": [
-      "Research focuses on natural language processing and machine learning"
-    ],
-    "affiliations[0]": [
-      "First-year PhD candidate at HKUST NLP Group",
-      "Research group at Hong Kong University of Science and Technology",
-      "Led by Professor Junxian He"
-    ],
-    "affiliations[1]": [
-      "Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology",
-      "Hong Kong University of Science and Technology"
-    ],
-    "affiliations[2]": [
-      "Graduated from Shanghai Jiao Tong University (SJTU) in June 2024",
-      "B.Eng. (2020-2024) at Shanghai Jiao Tong University"
-    ],
-    "education[0]": [
-      "Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology"
-    ],
-    "education[1]": [
-      "B.Eng. (2020-2024) at Shanghai Jiao Tong University",
-      "Graduated from Shanghai Jiao Tong University (SJTU) in June 2024"
-    ],
-    "research_interests": [
-      "Research focuses on natural language processing and machine learning",
-      "Research interests include LLM Reasoning and Reinforcement Learning",
-      "Research interests include Hallucination in Vision-Language Models (VLM)",
-      "Research interests include LLM truthfulness and Interpretability"
-    ],
-    "research_experience[0]": [
-      "Research Intern at MINIMAX (February 2025 - Present)"
-    ],
-    "research_experience[1]": [
-      "Research Intern at Tencent WXG (June 2024 - September 2024)",
-      "Advisor to Junteng Liu during his internship at Tencent WXG"
-    ],
-    "research_experience[2]": [
-      "Research Intern at Shanghai AI Lab (June 2023 - December 2023)",
-      "Advisor to Junteng Liu during his internship at Shanghai AI Lab"
-    ],
-    "publications[0]": [
-      "2025 publication",
-      "First author: Junteng Liu",
-      "Published on Arxiv",
-      "Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He",
-      "Has GitHub code repository"
-    ],
-    "publications[1]": [
-      "2025 publication",
-      "First author: Junteng Liu",
-      "Published on Arxiv",
-      "Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He",
-      "Has GitHub code repository: Vision4Chart"
-    ],
-    "publications[2]": [
-      "2024 publication",
-      "First author: Junteng Liu",
-      "Published at EMNLP 2024",
-      "Co-authors: Shiqi Chen, Yu Cheng, Junxian He",
-      "Has GitHub code repository: Universal_Truthfulness_Hyperplane"
-    ],
-    "publications[3]": [
-      "2024 publication",
-      "Published at ICML 2024",
-      "Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He"
-    ],
-    "publications[4]": [
-      "2023 publication",
-      "Published at NeurIPS 2023",
-      "Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He"
-    ],
-    "publications[5]": [
-      "2023 publication",
-      "Published at NeurIPS 2023",
-      "Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He"
-    ],
-    "skills": [
-      "Research focuses on natural language processing and machine learning"
-    ],
-    "contact.email": [
-      "Email: jliugi@connect.ust.hk"
-    ],
-    "contact.github": [
-      "GitHub: Vicent0205 (https://github.com/Vicent0205)"
-    ],
-    "contact.google_scholar": [
-      "Google Scholar profile: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
-    ],
-    "contact.x": [
-      "X (Twitter) account: @junteng88716710"
-    ]
+    "x_handle": "@junteng88716710"
   }
 }

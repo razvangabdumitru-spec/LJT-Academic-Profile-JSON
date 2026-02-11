@@ -1,206 +1,113 @@
 {
   "identity": {
     "name": "Junteng Liu",
-    "preferred_name": null,
-    "orcid": null,
-    "other_names": [],
-    "bio": "First-year PhD candidate at HKUST NLP Group",
-    "gender": null,
-    "date_of_birth": null
+    "positions": [
+      "First-year PhD candidate at HKUST NLP Group",
+      "Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology"
+    ],
+    "summary": "Research focuses on natural language processing and machine learning"
   },
   "affiliations": [
     {
-      "institution": "Hong Kong University of Science and Technology",
-      "group": "HKUST NLP Group",
-      "position": "PhD candidate",
-      "start_date": "2024",
-      "end_date": null
+      "organization": "HKUST NLP Group",
+      "role": "PhD candidate",
+      "details": null
     },
     {
-      "institution": "MINIMAX",
-      "group": null,
-      "position": "Research Intern",
-      "start_date": "February 2025",
-      "end_date": null
+      "organization": "Hong Kong University of Science and Technology",
+      "role": "Ph.D. student",
+      "details": null
     },
     {
-      "institution": "Tencent WXG",
-      "group": null,
-      "position": "Research Intern",
-      "start_date": "June 2024",
-      "end_date": "September 2024"
-    },
-    {
-      "institution": "Shanghai AI Lab",
-      "group": null,
-      "position": "Research Intern",
-      "start_date": "June 2023",
-      "end_date": "December 2023"
-    },
-    {
-      "institution": "Shanghai Jiao Tong University",
-      "group": null,
-      "position": "B.Eng. student (alumnus)",
-      "start_date": "2020",
-      "end_date": "June 2024"
+      "organization": "Shanghai Jiao Tong University",
+      "role": "Alumnus",
+      "details": null
     }
   ],
   "education": [
     {
       "degree": "Ph.D. in Computer Science",
-      "field": null,
       "institution": "Hong Kong University of Science and Technology",
-      "start_date": "2024",
-      "end_date": null,
-      "thesis_title": null,
-      "advisors": ["Professor Junxian He"]
+      "period": "2024-Present"
     },
     {
       "degree": "B.Eng.",
-      "field": null,
       "institution": "Shanghai Jiao Tong University",
-      "start_date": "2020",
-      "end_date": "June 2024",
-      "thesis_title": null,
-      "advisors": []
+      "period": "2020-2024",
+      "graduation_date": "June 2024"
     }
   ],
   "research_interests": [
     "Natural Language Processing",
     "Machine Learning",
     "LLM Reasoning and Reinforcement Learning",
-    "Hallucination in Vision-Language Models",
-    "LLM Truthfulness and Interpretability"
+    "Hallucination in Vision-Language Models (VLM)",
+    "LLM truthfulness and Interpretability"
   ],
   "research_experience": [
     {
       "role": "Research Intern",
       "organization": "MINIMAX",
-      "start_date": "February 2025",
-      "end_date": null,
-      "supervisor": null,
-      "description": null
+      "period": "February 2025 - Present"
     },
     {
       "role": "Research Intern",
       "organization": "Tencent WXG",
-      "start_date": "June 2024",
-      "end_date": "September 2024",
-      "supervisor": "Zifei Shan",
-      "description": null
+      "period": "June 2024 - September 2024",
+      "advisor": "Zifei Shan"
     },
     {
       "role": "Research Intern",
       "organization": "Shanghai AI Lab",
-      "start_date": "June 2023",
-      "end_date": "December 2023",
-      "supervisor": "Prof. Yu Cheng",
-      "description": null
+      "period": "June 2023 - December 2023",
+      "advisor": "Prof. Yu Cheng"
     }
   ],
   "publications": [
     {
       "title": "SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond",
-      "authors": [
-        "Junteng Liu",
-        "Yuanxiang Fan",
-        "Zhuo Jiang",
-        "Han Ding",
-        "Yongyi Hu",
-        "Chi Zhang",
-        "Yiqi Shi",
-        "Shitong Weng",
-        "Aili Chen",
-        "Shiqi Chen",
-        "Yunan Huang",
-        "Mozhi Zhang",
-        "Pengyu Zhao",
-        "Junjie Yan",
-        "Junxian He"
-      ],
-      "venue": "ArXiv",
       "year": 2025,
-      "doi": null,
-      "url": null
+      "role": "First author",
+      "venue": "Arxiv",
+      "authors_note": "Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He",
+      "notes": "Has GitHub code repository"
     },
     {
       "title": "On the Perception Bottleneck of VLMs for Chart Understanding",
-      "authors": [
-        "Junteng Liu",
-        "Weihao Zeng",
-        "Xiwen Zhang",
-        "Yijun Wang",
-        "Zifei Shan",
-        "Junxian He"
-      ],
-      "venue": "ArXiv",
       "year": 2025,
-      "doi": null,
-      "url": null
+      "role": "First author",
+      "venue": "Arxiv",
+      "authors_note": "Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He",
+      "notes": "Has GitHub code repository: Vision4Chart"
     },
     {
       "title": "On the Universal Truthfulness Hyperplane Inside LLMs",
-      "authors": [
-        "Junteng Liu",
-        "Shiqi Chen",
-        "Yu Cheng",
-        "Junxian He"
-      ],
-      "venue": "EMNLP",
       "year": 2024,
-      "doi": null,
-      "url": null
+      "role": "First author",
+      "venue": "EMNLP 2024",
+      "authors_note": "Co-authors: Shiqi Chen, Yu Cheng, Junxian He",
+      "notes": "Has GitHub code repository: Universal_Truthfulness_Hyperplane"
     },
     {
       "title": "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation",
-      "authors": [
-        "Shiqi Chen",
-        "Miao Xiong",
-        "Junteng Liu",
-        "Zhengxuan Wu",
-        "Teng Xiao",
-        "Siyang Gao",
-        "Junxian He"
-      ],
-      "venue": "ICML",
       "year": 2024,
-      "doi": null,
-      "url": null
+      "role": null,
+      "venue": "ICML 2024",
+      "authors_note": "Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He"
     },
     {
       "title": "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models",
-      "authors": [
-        "Yuzhen Huang",
-        "Yuzhuo Bai",
-        "Zhihao Zhu",
-        "Junlei Zhang",
-        "Jinghan Zhang",
-        "Tangjun Su",
-        "Junteng Liu",
-        "Chuancheng Lv",
-        "Yikai Zhang",
-        "Jiayi Lei",
-        "Yao Fu",
-        "Maosong Sun",
-        "Junxian He"
-      ],
-      "venue": "NeurIPS",
       "year": 2023,
-      "doi": null,
-      "url": null
+      "role": null,
+      "venue": "NeurIPS 2023",
+      "authors_note": "Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He"
     },
     {
       "title": "Composing Parameter-Efficient Modules with Arithmetic Operations",
-      "authors": [
-        "Jinghan Zhang",
-        "Shiqi Chen",
-        "Junteng Liu",
-        "Junxian He"
-      ],
-      "venue": "NeurIPS",
       "year": 2023,
-      "doi": null,
-      "url": null
+      "role": null,
+      "venue": "NeurIPS 2023",
+      "authors_note": "Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He"
     }
   ],
   "skills": [
@@ -211,56 +118,107 @@
     "email": "jliugi@connect.ust.hk",
     "github": "https://github.com/Vicent0205",
     "google_scholar": "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate",
-    "x_account": "@junteng88716710",
-    "phone": null,
-    "address": null
+    "x": "@junteng88716710"
   },
   "source_provenance": {
-    "identity": {
-      "name": ["Junteng Liu"],
-      "bio": ["First-year PhD candidate at HKUST NLP Group"],
-      "graduation": ["Graduated from Shanghai Jiao Tong University (SJTU) in June 2024"]
-    },
-    "affiliations": {
-      "HKUST": ["Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology","First-year PhD candidate at HKUST NLP Group"],
-      "MINIMAX": ["Research Intern at MINIMAX (February 2025 - Present)"],
-      "Tencent WXG": ["Research Intern at Tencent WXG (June 2024 - September 2024)"],
-      "Shanghai AI Lab": ["Research Intern at Shanghai AI Lab (June 2023 - December 2023)"],
-      "SJTU": ["B.Eng. (2020-2024) at Shanghai Jiao Tong University","Graduated from Shanghai Jiao Tong University (SJTU) in June 2024"]
-    },
-    "education": {
-      "PhD": ["Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology"],
-      "BEng": ["B.Eng. (2020-2024) at Shanghai Jiao Tong University"]
-    },
+    "identity.name": [
+      "First-year PhD candidate at HKUST NLP Group",
+      "Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology"
+    ],
+    "identity.positions": [
+      "First-year PhD candidate at HKUST NLP Group",
+      "Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology"
+    ],
+    "identity.summary": [
+      "Research focuses on natural language processing and machine learning"
+    ],
+    "affiliations[0]": [
+      "First-year PhD candidate at HKUST NLP Group",
+      "Research group at Hong Kong University of Science and Technology",
+      "Led by Professor Junxian He"
+    ],
+    "affiliations[1]": [
+      "Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology"
+    ],
+    "affiliations[2]": [
+      "Graduated from Shanghai Jiao Tong University (SJTU) in June 2024",
+      "B.Eng. (2020-2024) at Shanghai Jiao Tong University"
+    ],
+    "education[0]": [
+      "Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology"
+    ],
+    "education[1]": [
+      "B.Eng. (2020-2024) at Shanghai Jiao Tong University",
+      "Graduated from Shanghai Jiao Tong University (SJTU) in June 2024"
+    ],
     "research_interests": [
       "Research focuses on natural language processing and machine learning",
       "Research interests include LLM Reasoning and Reinforcement Learning",
       "Research interests include Hallucination in Vision-Language Models (VLM)",
       "Research interests include LLM truthfulness and Interpretability"
     ],
-    "research_experience": {
-      "MINIMAX": ["Research Intern at MINIMAX (February 2025 - Present)"],
-      "Tencent WXG": ["Research Intern at Tencent WXG (June 2024 - September 2024)"] ,
-      "Shanghai AI Lab": ["Research Intern at Shanghai AI Lab (June 2023 - December 2023)"]
-    },
-    "publications": {
-      "SynLogic": ["Published 'SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond' (2025) - First author","Has GitHub code repository"],
-      "Perception Bottleneck": ["Published 'On the Perception Bottleneck of VLMs for Chart Understanding' (2025) - First author","Has GitHub code repository: Vision4Chart"],
-      "Universal Truthfulness": ["Published 'On the Universal Truthfulness Hyperplane Inside LLMs' at EMNLP 2024 - First author","Has GitHub code repository: Universal_Truthfulness_Hyperplane"],
-      "In-Context Sharpness": ["Co-authored 'In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation' at ICML 2024"],
-      "C-Eval": ["Co-authored 'C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models' at NeurIPS 2023"],
-      "Composing PEMs": ["Co-authored 'Composing Parameter-Efficient Modules with Arithmetic Operations' at NeurIPS 2023"]
-    },
-    "skills": [
-      "Research focuses on natural language processing and machine learning",
-      "Natural Language Processing",
-      "Machine Learning"
+    "research_experience[0]": [
+      "Research Intern at MINIMAX (February 2025 - Present)"
     ],
-    "contact": {
-      "email": ["Email: jliugi@connect.ust.hk"],
-      "github": ["GitHub: Vicent0205 (https://github.com/Vicent0205)"],
-      "google_scholar": ["Google Scholar profile: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"],
-      "x_account": ["X (Twitter) account: @junteng88716710"]
-    }
+    "research_experience[1]": [
+      "Research Intern at Tencent WXG (June 2024 - September 2024)",
+      "Advisor to Junteng Liu during his internship at Tencent WXG"
+    ],
+    "research_experience[2]": [
+      "Research Intern at Shanghai AI Lab (June 2023 - December 2023)",
+      "Advisor to Junteng Liu during his internship at Shanghai AI Lab"
+    ],
+    "publications[0]": [
+      "2025 publication",
+      "First author: Junteng Liu",
+      "Published on Arxiv",
+      "Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He",
+      "Has GitHub code repository"
+    ],
+    "publications[1]": [
+      "2025 publication",
+      "First author: Junteng Liu",
+      "Published on Arxiv",
+      "Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He",
+      "Has GitHub code repository: Vision4Chart"
+    ],
+    "publications[2]": [
+      "2024 publication",
+      "First author: Junteng Liu",
+      "Published at EMNLP 2024",
+      "Co-authors: Shiqi Chen, Yu Cheng, Junxian He",
+      "Has GitHub code repository: Universal_Truthfulness_Hyperplane"
+    ],
+    "publications[3]": [
+      "2024 publication",
+      "Published at ICML 2024",
+      "Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He"
+    ],
+    "publications[4]": [
+      "2023 publication",
+      "Published at NeurIPS 2023",
+      "Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He"
+    ],
+    "publications[5]": [
+      "2023 publication",
+      "Published at NeurIPS 2023",
+      "Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He"
+    ],
+    "skills": [
+      "Research focuses on natural language processing and machine learning"
+    ],
+    "contact.email": [
+      "Email: jliugi@connect.ust.hk"
+    ],
+    "contact.github": [
+      "GitHub: Vicent0205 (https://github.com/Vicent0205)"
+    ],
+    "contact.google_scholar": [
+      "Google Scholar profile: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+    ],
+    "contact.x": [
+      "X (Twitter) account: @junteng88716710"
+    ]
   }
 }
